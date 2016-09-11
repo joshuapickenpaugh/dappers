@@ -1,4 +1,8 @@
-﻿Public Class frmMain
+﻿' Joshua Pickenpaugh
+' September 11th, 2016
+' "Dappers Shipping Calculator"
+
+Public Class frmMain
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
 
         'Closes the app:
